@@ -1,0 +1,36 @@
+{
+  "attendees": [
+    {
+      "id": 1,
+      "firstName": "Evan",
+      "lastName": "2",
+      "email": "kaylee@serenity.com",
+      "shirt": "S",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "firstName": "Evan",
+      "lastName": "Mastro",
+      "email": "expertMeetuper@meetup.com",
+      "shirt": "L",
+      "skillLevel": "Expert",
+      "id": 2
+    },
+    {
+      "firstName": "Dolly ",
+      "lastName": "Parton",
+      "email": "dolly@country.com",
+      "shirt": "S",
+      "skillLevel": "Beginner",
+      "id": 3
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "email": "ilovefootball@gmail.com",
+      "shirt": "XL",
+      "skillLevel": "Expert",
+      "id": 4
+    }
+  ]
+}
